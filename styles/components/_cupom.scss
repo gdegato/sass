@@ -8,7 +8,7 @@
     color: $cor-primaria;
     h2 {
       margin: 2rem;
-      font-size: $tamanho-do-texto / 1.7;
+      font-size: calc($tamanho-do-texto / 1.7);
     }
   }
   .input {
